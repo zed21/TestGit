@@ -6,4 +6,6 @@ mise à jour de l'ensemble de mes fichiers dans ce git qui dure depuis des anné
 
 Modification de mon readme sur github directement
 
+Ajoutons des modifications encore pour le bien de git
+
 ### testGit ###
