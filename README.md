@@ -8,4 +8,6 @@ Modification de mon readme sur github directement
 
 Ajoutons des modifications encore pour le bien de git
 
+Ajoutons encore des modifications depuis la partie github
+
 ### testGit ###
